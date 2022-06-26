@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj": {}
+    "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj": {}
   },
   "projects": {
-    "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj": {
+    "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
+        "projectUniqueName": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
         "projectName": "Rbac.Entity",
-        "projectPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
+        "projectPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
         "packagesPath": "C:\\Users\\86139\\.nuget\\packages\\",
-        "outputPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\obj\\",
+        "outputPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj": {
+    "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj",
+        "projectUniqueName": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj",
         "projectName": "Rbac.Repository",
-        "projectPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj",
+        "projectPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Repository\\Rbac.Repository.csproj",
         "packagesPath": "C:\\Users\\86139\\.nuget\\packages\\",
-        "outputPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Repository\\obj\\",
+        "outputPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -104,8 +104,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj": {
-                "projectPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj"
+              "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj": {
+                "projectPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj"
               }
             }
           }

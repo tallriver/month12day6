@@ -5803,11 +5803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
+      "projectUniqueName": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
       "projectName": "Rbac.Entity",
-      "projectPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
+      "projectPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\Rbac.Entity.csproj",
       "packagesPath": "C:\\Users\\86139\\.nuget\\packages\\",
-      "outputPath": "E:\\网盘\\6.17练习\\6.17练习\\Rbac.Entity\\obj\\",
+      "outputPath": "F:\\桌面\\day6worker\\dayworker\\6.17练习\\Rbac.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
